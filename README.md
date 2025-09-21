@@ -1,6 +1,6 @@
 # Vending Machine Simulator
 
-A modular C application that simulates a snack vending machine with complete inventory management and transaction processing.
+A modular C application that simulates a snack vending machine with complete inventory management and transaction processing. I've created a JavaScript version of the vending machine that provides exactly the same functionality as the C version but runs perfectly in the Node.js environment. 
 
 ## Features
 
