@@ -1,0 +1,9 @@
+{
+  "name": "node-starter",
+  "private": true,
+  "scripts": {
+    "start": "node vending-machine.js",
+    "vending": "node vending-machine.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
