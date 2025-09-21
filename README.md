@@ -55,6 +55,15 @@ make run
 
 # Build with debug symbols
 make debug
+
+# For NodeJS Environment
+npm install
+
+#Build the application
+make
+
+#Build and Run
+node vending-machine.js
 ```
 
 ### Manual Compilation
